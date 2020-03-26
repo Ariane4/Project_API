@@ -1,0 +1,47 @@
+body{
+    margin:0 auto;
+    padding:0;
+    background-color: aliceblue;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    width: 50%;
+    margin:15px auto 0 auto;
+    text-align: center;
+    color: rgb(1, 1, 100);
+    letter-spacing: 1px;
+}
+p{
+    color: rgb(233, 233, 12);
+    font-size: x-small;
+    margin-left: 5%;
+}
+img{
+    width:100%;
+}
+
+
+
+/* #memePic{
+    width: 80%;
+    height: 400px;
+    display: block;
+}
+#memeName{
+    width: 50%;
+    margin:0  auto;
+    font-size: medium;
+    color: rgb(1, 1, 100);
+    letter-spacing: 1px;
+    text-align: center;
+}
+#memeLink{
+    display: block;
+    width: 30%;
+    margin:10px  auto;
+    font-size: xx-small;
+    color: rgb(1, 1, 100);
+    letter-spacing: 1px;
+    text-align: center; */
+}
